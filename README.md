@@ -9,7 +9,7 @@ Github：https://github.com/930324291/React-Native-VehicleKeyBord.git
 
 <img src="https://github.com/930324291/React-Native-VehicleKeyBord/blob/master/screenshot/2.png">
 
-<img src="https://github.com/930324291/React-Native-VehicleKeyBord/master/screenshot/3.png">
+<img src="https://github.com/930324291/React-Native-VehicleKeyBord/blob/master/screenshot/3.png">
 
 
 ## At last
