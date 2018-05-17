@@ -1,0 +1,3 @@
+rootProject.name = 'VehicleKeyBord'
+
+include ':app'
