@@ -1,4 +1,3 @@
-# MeiTuan App Write In latest React-Native(0.44.0)
 
 Github：https://github.com/930324291/React-Native-VehicleKeyBord.git
 
