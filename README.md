@@ -27,7 +27,7 @@ If you like this project, please give me a star  :)
 
 这个组件是从隧e通APP抽出，隧e通APP是纯RN商业项目，包含热更新，微信、支付宝、各渠道银行支付，地图、导航、标注物覆盖、消息推送等技术。
 
-有兴趣的朋友可以下载这个APP。
+有兴趣的朋友可以从应用市场下载这个APP。
 
 
 ## 瞎扯蛋
