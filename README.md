@@ -20,19 +20,15 @@ If you like this project, please give me a star  :)
 
 ## 简介
 
-这是一个用React-Native写的车牌号输入界面。
+这是一个用React-Native写的车牌号输入界面，使用了React-Native 0.55.4版本。遵循ES6语法。
 
-使用了React-Native 0.55.4版本。遵循ES6语法。
+主要实现了车牌号输入界面、自定义车牌号键盘。所有功能都是用JavaScript写的，iOS和Android全适配。
+这是一个用React-Native写的车牌号输入界面，使用了React-Native 0.55.4版本。遵循ES6语法。
 
-主要实现了车牌号输入界面、自定义车牌号键盘。
+这个组件是从隧e通APP抽出，隧e通APP是纯RN商业项目，包含热更新，微信、支付宝、各渠道银行支付，地图、导航、标注物覆盖、消息推送等技术。
 
-所有功能都是用JavaScript写的，iOS和Android全适配。
+有兴趣的朋友可以下载这个APP。
 
-之前一直做Android及后台开发，最近项目需要转成RN开发。
-
-这个Demo使用比较简单方式去实现功能。这样可以让刚接触ReactNative的人（比如我自己...）更够容易理解代码。
-
-该项目，因为时间很紧，组件还没有完全封装，这个项目只是给大家一个自定义键盘的思路。
 
 ## 瞎扯蛋
 
@@ -50,9 +46,6 @@ If you like this project, please give me a star  :)
 https://github.com/930324291/React-Native-VehicleKeyBord
 
 我将持续更新这个Demo
-
-如果你有任何的意见或建议，或者对App感兴趣，赶紧联系我
-QQ：930324291
 
 如果对这个Demo有任何疑问，欢迎加入我们的大家庭
 
