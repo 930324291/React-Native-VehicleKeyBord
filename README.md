@@ -38,7 +38,6 @@ If you like this project, please give me a star  :)
 
 如果对这个Demo有任何的意见或建议，或者喜欢ReactNative的朋友，欢迎在下方留言。我会在第一时间回复 :)
 
-
 ## 最后
 
 如果你喜欢这个Demo，请给我一个star   :)
